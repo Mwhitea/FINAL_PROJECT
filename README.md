@@ -14,7 +14,8 @@ What I consider at stake within this research is mainly on knowing which is Stat
 **•	A preliminary but definitive description of data sources that you will use**
 
 	Include data sources with links
-The data sources I’ll be using are CORGIS and the U.S. Energy Information Administration
+
+The data sources I’ll be using are CORGIS, the U.S. Energy Information Administration, and IEA.org (International Energy Agency)
 https://www.eia.gov/state/seds/seds-data-complete.php
 The U.S. Energy Information Administration (EIA) collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment.
 
