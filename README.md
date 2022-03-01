@@ -1,4 +1,5 @@
-https://mybinder.org/v2/gh/Mwhitea/FINAL_PROJECT/HEAD?labpath=FP_ENERGY.ipynb
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/Mwhitea/FINAL_PROJECT/HEAD?labpath=FP_ENERGY.ipynb
 
 # FINAL_PROJECT
 
