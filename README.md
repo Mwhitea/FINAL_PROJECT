@@ -1,6 +1,6 @@
 
 
-[![Binder](https://mybinder.org/v2/gh/Mwhitea/FINAL_PROJECT/main?labpath=Final%20Project_ENERGY.ipynb)
+[![Binder](https://hub.gke2.mybinder.org/user/mwhitea-final_project-lbd6lkq6/doc/workspaces/auto-5/tree/Final%20Project_ENERGY.ipynb)
 # FINAL_PROJECT
 
 
