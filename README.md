@@ -1,7 +1,8 @@
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mwhitea/FINAL_PROJECT/HEAD?labpath=FP_ENERGY.ipynb)
+[![Binder](https://mybinder.org/v2/gh/Mwhitea/FINAL_PROJECT/main?labpath=Final%20Project_ENERGY.ipynb)
 # FINAL_PROJECT
+
 
 Project Assignment #1: ENERGY CONSUMPTION VS PRODUCTION CONTRAST PRE - POST PANDEMIC
 
